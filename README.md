@@ -9,7 +9,7 @@
 This is a project that I create in the Algorithms and Data Structure class. The motivation of this project is to implement an algorithm that can be used in a search engine, and analyze time complexity. In this project, I create a trie tree with multiple functions such as lookup a word in the tree, print all words in the tree alphabetically, finding the k most common word, and autocomplete a word. 
 
 - Time: Spring 2021
-- Duration: 2 weeks 
+- Duration: 3 weeks 
 - Language: Python 
 - Techniques: Tree structure 
 
