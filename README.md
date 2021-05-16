@@ -1,0 +1,35 @@
+# Trie-Tree
+
+1. [ About this Project. ](#desc)
+2. [ Usage tips. ](#usage)
+
+<a name="desc"></a>
+## 1. About this Project 
+
+This is a regression project that I create in my first-year statistics class. The motivation is to gain some beginner knowledge about people analytics. In this project, I obtain the data through IBM HR Analytics Employee Attrition & Performance on Kaggle. I assess how age is correlated to monthly salary as well as other variables, such as job level and working years. 
+
+- Time: Spring 2021
+- Duration: 2 weeks 
+- Language: Python 
+- Techniques: Tree structure 
+- Sources: IBM HR Analytics Employee Attrition & Performance on Kaggle: [here](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
+
+<a name="usage"></a>
+## 2. Usage tips
+
+The files in this project include
+- A Python notebook for data analysis: [Correlation and Regression.ipynb](https://github.com/esther119/regression_IBM_income_analysis/blob/master/Regression_IBM_income/Correlation%20and%20Regression.ipynb)
+- A overall report about income analysis: [Correlation and Regression.pdf](https://github.com/esther119/regression_IBM_income_analysis/blob/master/Regression_IBM_income/Correlation%20and%20Regression.pdf)
+- Source Data: WA_Fn-UseC_-HR-Employee-Attrition.csv
+- Plots: independece.png, linearity.png, pairplot.png 
+
+To understand the project, read the Correlation and Regression PDF report is sufficient. If you are interested in the technical side of analysis, feel free to take a look at the Correlation and Regression Python notebook. 
+
+
+
+
+
+
+
+
