@@ -1,4 +1,4 @@
-# Trie-Tree
+# Trie Tree
 
 1. [ About this Project. ](#desc)
 2. [ Usage tips. ](#usage)
